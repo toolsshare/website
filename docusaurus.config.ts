@@ -37,8 +37,8 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/toolsshare/website//blob/main/',
+          // editUrl:
+          //   'https://github.com/toolsshare/website//blob/main/',
         },
         blog: {
           blogTitle: 'Blog!',
@@ -149,11 +149,11 @@ const config: Config = {
             },
           ],
         },
-        {
-          href: 'https://github.com/toolsshare/website/',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/toolsshare/website/',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
         {
           type: 'localeDropdown',
           position: 'right',
