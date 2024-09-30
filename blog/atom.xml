@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://toolsshare.github.io/website/blog</id>
     <title>让需要的人用得起软件，让炒冷饭还天价的游戏狗带 Blog</title>
-    <updated>2024-09-30T13:41:00.000Z</updated>
+    <updated>2024-09-30T23:28:07.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://toolsshare.github.io/website/blog"/>
     <subtitle>让需要的人用得起软件，让炒冷饭还天价的游戏狗带 Blog</subtitle>
@@ -11,6 +11,6 @@
         <title type="html"><![CDATA[index]]></title>
         <id>https://toolsshare.github.io/website/blog/index</id>
         <link href="https://toolsshare.github.io/website/blog/index"/>
-        <updated>2024-09-30T13:41:00.000Z</updated>
+        <updated>2024-09-30T23:28:07.000Z</updated>
     </entry>
 </feed>
