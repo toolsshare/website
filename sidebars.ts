@@ -27,6 +27,7 @@ const sidebars: SidebarsConfig = {
    */
   docs:[
     'jb',
+    'office',
   ],
 };
 

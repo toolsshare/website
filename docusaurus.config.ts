@@ -144,7 +144,7 @@ const config: Config = {
               label: 'jetbrains助手',
             },
             {
-              to: '/',
+              to: '/docs/office',
               label: 'office全家桶',
             },
           ],
