@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '让需要的人用得起软件，让炒冷饭的游戏狗带',
+  title: '让需要的人用得起软件，让炒冷饭还天价的游戏狗带',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
