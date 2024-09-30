@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Adobe 全家桶',
-    Img: "img/products/adobe.png",
+    Img: "img/products/adobe.jpg",
     description: (
       <>
         Adobe 全家桶大师版，一键安装
