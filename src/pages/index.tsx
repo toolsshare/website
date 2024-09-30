@@ -21,9 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            <Translate description="The homepage main heading">
-              Site under construction
-            </Translate>
+            下载 A.C. Softbank
           </Link>
         </div>
       </div>
@@ -39,7 +37,6 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        123
       </main>
     </Layout>
   );

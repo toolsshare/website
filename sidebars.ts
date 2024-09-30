@@ -26,7 +26,7 @@ const sidebars: SidebarsConfig = {
   ],
    */
   docs:[
-    'intro',
+    'jb',
   ],
 };
 
