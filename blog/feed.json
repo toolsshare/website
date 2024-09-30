@@ -1,15 +1,15 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "让每个人用得起软件 Blog",
+    "title": "让需要的人用得起软件，让炒冷饭的游戏狗带 Blog",
     "home_page_url": "https://toolsshare.github.io/website/blog",
-    "description": "让每个人用得起软件 Blog",
+    "description": "让需要的人用得起软件，让炒冷饭的游戏狗带 Blog",
     "items": [
         {
             "id": "https://toolsshare.github.io/website/blog/index",
             "content_html": "",
             "url": "https://toolsshare.github.io/website/blog/index",
             "title": "index",
-            "date_modified": "2024-09-30T11:47:37.000Z",
+            "date_modified": "2024-09-30T12:37:37.000Z",
             "tags": []
         }
     ]

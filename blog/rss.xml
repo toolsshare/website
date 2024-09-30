@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>让每个人用得起软件 Blog</title>
+        <title>让需要的人用得起软件，让炒冷饭的游戏狗带 Blog</title>
         <link>https://toolsshare.github.io/website/blog</link>
-        <description>让每个人用得起软件 Blog</description>
-        <lastBuildDate>Mon, 30 Sep 2024 11:47:37 GMT</lastBuildDate>
+        <description>让需要的人用得起软件，让炒冷饭的游戏狗带 Blog</description>
+        <lastBuildDate>Mon, 30 Sep 2024 12:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[index]]></title>
             <link>https://toolsshare.github.io/website/blog/index</link>
             <guid>https://toolsshare.github.io/website/blog/index</guid>
-            <pubDate>Mon, 30 Sep 2024 11:47:37 GMT</pubDate>
+            <pubDate>Mon, 30 Sep 2024 12:37:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
