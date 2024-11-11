@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     Img: "img/products/office.png",
     description: (
       <>
-        Office 全家桶，Office 365，Office 2021，Office 2019，全家桶还送 Project 和 Visio
+        Office 全家桶，Office 365，Office 2024，Office 2021，全家桶还送 Project 和 Visio
       </>
     ),
     link: "docs/office",
